@@ -1,0 +1,3 @@
+SELECT * from RDOC where "Author"='System' and "Category"='C'
+
+UPDATE SARI SET ClientType = ‘A’ WHERE EName = ‘YOURADD-ON.exe’
